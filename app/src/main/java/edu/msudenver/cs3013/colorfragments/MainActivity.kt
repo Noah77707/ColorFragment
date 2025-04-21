@@ -1,3 +1,5 @@
+//Noah Hoepfinger
+
 package edu.msudenver.cs3013.colorfragments
 
 import android.util.Log
